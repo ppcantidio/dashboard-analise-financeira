@@ -1,0 +1,38 @@
+Date,Company,Region,Revenue
+2025-01-02,Petrobras,Sudeste,25874320.50
+2025-01-05,Vale,Centro-Oeste,19485000.75
+2025-01-10,Itaú Unibanco,Sudeste,15243000.00
+2025-01-15,Bradesco,Sul,13125000.25
+2025-01-20,Ambev,Sudeste, 9875000.40
+2025-01-25,Natura,Nordeste, 6823000.10
+2025-01-30,B3,Sudeste,10245000.00
+2025-02-03,Embraer,Sudeste, 7450000.55
+2025-02-07,Petrobras,Centro-Oeste,26300000.80
+2025-02-12,Vale,Norte,20512000.00
+2025-02-17,Itaú Unibanco,Sudeste,15890000.65
+2025-02-22,Bradesco,Sul,13745000.20
+2025-02-27,Ambev,Nordeste, 9950000.95
+2025-03-04,Natura,Centro-Oeste, 7123000.40
+2025-03-09,B3,Sudeste,10980000.00
+2025-03-14,Embraer,Sul, 7985000.75
+2025-03-19,Petrobras,Sudeste,27025000.30
+2025-03-24,Vale,Nordeste,19850000.90
+2025-03-29,Itaú Unibanco,Centro-Oeste,16230000.15
+2025-04-03,Bradesco,Sudeste,14275000.60
+2025-04-08,Ambev,Sul,10320000.45
+2025-04-13,Natura,Nordeste, 7321000.25
+2025-04-18,B3,Centro-Oeste,11150000.00
+2025-04-23,Embraer,Sudeste, 8120000.85
+2025-04-28,Petrobras,Sul,27500000.10
+2025-05-03,Vale,Nordeste,20275000.55
+2025-05-08,Itaú Unibanco,Sudeste,16890000.95
+2025-05-13,Bradesco,Centro-Oeste,14950000.40
+2025-05-18,Ambev,Norte,10530000.20
+2025-05-23,Natura,Sul, 7524000.75
+2025-05-28,B3,Nordeste,11520000.00
+2025-06-02,Embraer,Centro-Oeste, 8350000.30
+2025-06-07,Petrobras,Sudeste,28250000.80
+2025-06-12,Vale,Sul,20830000.50
+2025-06-17,Itaú Unibanco,Nordeste,17200000.65
+2025-06-22,Bradesco,Centro-Oeste,15280000.20
+2025-06-27,Ambev,Sudeste,10875000.90
