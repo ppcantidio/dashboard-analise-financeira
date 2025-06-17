@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 
 @st.cache_data
 def load_data():
@@ -13,8 +14,12 @@ def main():
 
     # Gráficos e análises
     st.subheader('Gráfico de Receita por Empresa')
-    revenue_chart = data.groupby('Company')['Revenue'].sum().sort_values().plot(kind='barh')
-    st.pyplot(revenue_chart.figure)
+    revenue_data = data.groupby('Company')['Revenue'].sum().sort_values()
+    plt.figure(figsize=(10, 6))
+    plt.barh(revenue_data.index, revenue_data.values, color='skyblue')
+    plt.xlabel('Receita')
+    plt.title('Receita Total por Empresa')
+    st.pyplot(plt)
 
 if __name__ == '__main__':
     main()
